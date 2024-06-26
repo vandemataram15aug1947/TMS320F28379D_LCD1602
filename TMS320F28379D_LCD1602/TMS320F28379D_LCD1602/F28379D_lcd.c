@@ -1,12 +1,10 @@
 /*
- *	F28379D_lcd.c
- *	Support C2000 Delfino LAUNCHXL-F28379D
+ * TMS320F28379D_LCD1602.c
  *
- *  Created on: June 27, 2017
- *  Author: Tom Liang
- *	Version: 1.0
- *	Acknowledgement: thanks to Mani for the project insight
+ *  Created on: Jun 26, 2024
+ *      Author: Vande
  */
+
  
  //include files
  #include "F28x_Project.h"
