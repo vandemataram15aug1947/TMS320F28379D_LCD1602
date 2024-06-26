@@ -1,13 +1,10 @@
 /*
- *	F28379D_lcd.h
- *	Support C2000 Delfino LAUNCHXL-F28379D
+ * TMS320F28379D_LCD1602.h
  *
- *  Created on: June 27, 2017
- *  Author: Tom Liang
- *	Version: 1.0
- *	Acknowledgement: thanks to Mani for the project insight
+ *  Created on: Jun 26, 2024
+ *      Author: Vande
  */
- 
+
 /*
 ||     F28379D Pin          <==>      LCD1602/ADM1602K Pin      
 ||         GND              <==>         Pin1 (Vss)
